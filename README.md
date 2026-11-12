@@ -22,7 +22,7 @@ What to expect at the sessions
 - [15:00-15:20] - Talk : Understanding file outputs with JSON/XML structures
 > 10-minute break 
 - [15:30-15:45] - Talk and demonstration: Understanding API user keys/authentication
-- Demonstration (Eropeana & Postman)
+- Demonstration (Euroropeana & Postman)
 > Final 15 minutes
 - Discussion: Q & A  
 - Next session overview for practical & exercise
