@@ -2,7 +2,7 @@
 
 This is a beginner level course on APIs and their use cases in research, covering details about what APIs are what they are used for, how to understand their application, types of APIs, limits and considerations and core topics related to API use.
 
-This course was developed by Somya Iqbal (siqbal5@ed.ac.uk), Alex Crest (s2442997@ed.ac.uk) & Aybuke Atalay (aybuke.atalay@ed.ac.uk).
+This course was developed by Somya Iqbal, Alex Crest (s2442997@ed.ac.uk) and further adapted for 2026 by SI.
 
 What to expect at the sessions
 - Demonstrations
@@ -12,7 +12,7 @@ What to expect at the sessions
 
 ## Schedule
 
-### Session 1 - Day 1 - 26/11/25
+### Session 1 - Day 1 - 12/11/26
 #### Remit: Understanding fundamentals and demonstration
 
 - [14:00-14:20] - Talk: Introduction to APIs and use cases
@@ -22,13 +22,13 @@ What to expect at the sessions
 - [15:00-15:20] - Talk : Understanding file outputs with JSON/XML structures
 > 10-minute break 
 - [15:30-15:45] - Talk and demonstration: Understanding API user keys/authentication
-- Demonstration (Google APIs)
+- Demonstration (Eropeana & Postman)
 > Final 15 minutes
 - Discussion: Q & A  
 - Next session overview for practical & exercise
 - Record attendance & feedback
 
-### Session 2 - Day 2 03/12/25
+### Session 2 - Day 2 19/11/26
 #### APIs in practice
 - [14:00-14:15]: Introduction to session and recap
 - [14:15-14:40]: Exercise - working through API documentation
